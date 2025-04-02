@@ -1,0 +1,4 @@
+/.hugo_build.lock
+/hugo
+/hugo_extended_*.tar.gz
+/public
