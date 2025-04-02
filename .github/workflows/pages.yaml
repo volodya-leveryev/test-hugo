@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      HUGO_VERSION: <Версия Hugo>
+      HUGO_VERSION: 0.145.0
 
     steps:
       - name: Checkout
